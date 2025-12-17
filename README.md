@@ -13,29 +13,4 @@ O objetivo geral do projeto é criar uma plataforma digital que incentive a econ
   
 A relevância do Re.use está na promoção de uma mudança de comportamento no consumo de moda. O projeto contribui para a redução do impacto ambiental da indústria têxtil, incentiva o reaproveitamento de peças e amplia o acesso a alternativas sustentáveis. Em um cenário onde a preocupação com o meio ambiente cresce, soluções como essa são fundamentais para tornar hábitos sustentáveis mais acessíveis e viáveis para a população. 
 
-## Integrantes
-
-* Davi Nunes Carvalho
-* Josue Carlos Goulart dos Reis 
-* Luiz Fernando Batista Moreira 
-* Matheus Henrique Tavares Malta Soares 
-* Nicolas Kiffer de Oliveira Soares 
-
-## Professor
-
-* Eveline Alonso Veloso 
-* Juliana Amaral Baroni de Carvalho
-* 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação. 
-
-## Histórico de versões
-
-* 0.1.1
-    * CHANGE: Atualização das documentações. Código permaneceu inalterado.
-* 0.1.0
-    * Implementação da funcionalidade X pertencente ao processo P.
-* 0.0.1
-    * Trabalhando na modelagem do processo de negócio.
 
